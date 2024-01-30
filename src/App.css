@@ -1,46 +1,8 @@
-.App {
-  text-align: center;
-}
-
-
-
-
-.form{
+.navbar{
   display: flex;
   flex-direction: column;
-  width: 50%;
-  margin: auto;
-  margin-top: 100px;
 }
 
-input {
-  margin: 8px;
-  padding: 5px;
-  
-}
-.input__text{
-  outline: none;
-  border: none;
-  border-bottom: 2px solid black;
-}
-
-button {
-  margin: 8px;
-  padding: 10px;
-  border-radius: 5px;
-  background-color: #f4a261;
-  color: #fefae0;
-  outline: 3px solid #778da9;
-  outline-offset: -6px;
-  transition: 0.3s;
-}
-.btn{
-  border: none;
-}
-button:hover{
-  outline-offset: 3px;
-}
-
-.input__box {
+.upper{
   display: flex;
 }
